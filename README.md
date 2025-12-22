@@ -1,18 +1,17 @@
 # nikfa35/ README
-<table>
+<table cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td style="padding-left:30px; padding-right:15px; vertical-align:middle;">
+    <td style="padding-left:30px; padding-right:15px; vertical-align:middle; border:none;">
       <img 
         src="https://art.pixilart.com/063d8ab62cd8c31.png" 
         width="80"
       />
     </td>
-    <td style="vertical-align:middle;">
+    <td style="vertical-align:middle; border:none;">
       <h1 style="margin:0;">Привет 👋, я Ник</h1>
     </td>
   </tr>
 </table>
-<div style="margin-left:30px;">
 
   <p style="font-size:18px; margin-top:10px;">
     Потерявшийся в себе
