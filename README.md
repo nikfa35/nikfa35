@@ -1,5 +1,4 @@
 # nikfa35/ README
-<table cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
     <td style="padding-left:30px; padding-right:15px; vertical-align:middle; border:none;">
       <img 
