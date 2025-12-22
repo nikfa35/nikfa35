@@ -1,16 +1,20 @@
 # nikfa35/ README
+<table>
+  <tr>
+    <td style="padding-left:30px; padding-right:15px; vertical-align:middle;">
+      <img 
+        src="https://art.pixilart.com/063d8ab62cd8c31.png" 
+        width="80"
+      />
+    </td>
+    <td style="vertical-align:middle;">
+      <h1 style="margin:0;">Привет 👋, я Ник</h1>
+    </td>
+  </tr>
+</table>
 <div style="margin-left:30px;">
 
-  <div style="display:flex; align-items:center;">
-    <img 
-      src="https://art.pixilart.com/063d8ab62cd8c31.png"
-      width="80"
-      style="margin-right:15px;"
-    />
-    <h1 style="margin:0;">Привет 👋, я Ник</h1>
-  </div>
-
-  <p style="margin-top:8px; font-size:18px;">
+  <p style="font-size:18px; margin-top:10px;">
     Потерявшийся в себе
   </p>
 
@@ -19,7 +23,7 @@
   <ul>
     <li>💬 Спросите меня о чём угодно</li>
     <li>📫 Как со мной связаться: <b>kreltok35@gmail.com</b></li>
-    <li>📄 Узнайте о моём опыте: 
+    <li>📄 Узнайте о моём опыте:
       <a href="https://cherepovets.hh.ru/resume/0af8400bff08e3dc8c0039ed1f52564c6f7158">
         hh.ru
       </a>
@@ -36,6 +40,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   </p>
+
+</div>
 
 </div>
 
