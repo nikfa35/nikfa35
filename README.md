@@ -1,5 +1,5 @@
 # nikfa35/ README
-<img src="https://i.imgur.com/8Km9tLL.png" width="120" style="margin-left: 30px;" />
+<img src="https://art.pixilart.com/063d8ab62cd8c31.png" width="120" style="margin-left: 30px;" />
 
 <h1 style="margin-left: 30px;">Hi 👋, I'm Ник</h1>
 <h3 style="margin-left: 30px;">Потерявшийся в себе</h3>
