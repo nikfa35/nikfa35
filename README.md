@@ -1,8 +1,12 @@
 # nikfa35/ README
-<img src="https://art.pixilart.com/063d8ab62cd8c31.png" width="120" style="margin-left: 30px;" />
-
-<h1 style="margin-left: 30px;">Hi 👋, I'm Ник</h1>
-<h3 style="margin-left: 30px;">Потерявшийся в себе</h3>
+<div style="display: flex; align-items: center; margin-left: 30px;">
+  <img 
+    src="https://art.pixilart.com/063d8ab62cd8c31.png" 
+    width="120"
+    style="margin-right: 20px;"
+  />
+  <h1>Привет 👋, я Ник</h1>
+</div>
 
 <p style="margin-left: 30px;">
   <img src="https://komarev.com/ghpvc/?username=nikfa35&label=Profile%20views&color=0e75b6&style=flat" />
