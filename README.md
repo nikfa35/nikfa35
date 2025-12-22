@@ -1,14 +1,16 @@
 # nikfa35/ README
 <table cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td style="padding-left:30px; padding-right:15px; vertical-align:middle; border:none;">
+    <td style="padding-left:30px; padding-right:15px; vertical-align:middle;">
       <img 
         src="https://art.pixilart.com/063d8ab62cd8c31.png" 
         width="80"
       />
     </td>
-    <td style="vertical-align:middle; border:none;">
-      <h1 style="margin:0;">Привет 👋, я Ник</h1>
+    <td style="vertical-align:middle;">
+      <div style="font-size:32px; font-weight:bold;">
+        Привет 👋, я Ник
+      </div>
     </td>
   </tr>
 </table>
