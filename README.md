@@ -1,20 +1,29 @@
-# profil/ README
-<h1 align="center">Hi 👋, I'm Ник</h1>
-<h3 align="center">Потерявшийся в себе</h3>
+# nikfa35/ README
+<img src="https://i.imgur.com/8Km9tLL.png" width="120" style="margin-left: 30px;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikfa35&label=Profile%20views&color=0e75b6&style=flat" alt="nikfa35" /> </p>
+<h1 style="margin-left: 30px;">Hi 👋, I'm Ник</h1>
+<h3 style="margin-left: 30px;">Потерявшийся в себе</h3>
 
-- 💬 Ask me about **о чем угодно**
-
-- 📫 How to reach me **kreltok35@gmail.com**
-
-- 📄 Know about my experiences [https://cherepovets.hh.ru/resume/0af8400bff08e3dc8c0039ed1f52564c6f7158](https://cherepovets.hh.ru/resume/0af8400bff08e3dc8c0039ed1f52564c6f7158)
-
-- ⚡ Fun fact **Я бываю занудным**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="margin-left: 30px;">
+  <img src="https://komarev.com/ghpvc/?username=nikfa35&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<ul style="margin-left: 45px;">
+  <li>💬 Ask me about <b>о чем угодно</b></li>
+  <li>📫 How to reach me <b>kreltok35@gmail.com</b></li>
+  <li>📄 Know about my experiences 
+    <a href="https://cherepovets.hh.ru/resume/0af8400bff08e3dc8c0039ed1f52564c6f7158">
+      hh.ru
+    </a>
+  </li>
+  <li>⚡ Fun fact <b>Я бываю занудным</b></li>
+</ul>
+
+<h3 style="margin-left: 30px;">Languages and Tools:</h3>
+
+<p style="margin-left: 30px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+</p>
