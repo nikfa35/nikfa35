@@ -5,8 +5,12 @@
     width="120"
     style="margin-right: 20px;"
   />
-  <h1>Привет 👋, я Ник</h1>
+  <div>
+    <h1 style="margin: 0;">Привет 👋, я Ник</h1>
+    <h3 style="margin: 5px 0 0 0;">Потерявшийся в себе</h3>
+  </div>
 </div>
+
 
 <p style="margin-left: 30px;">
   <img src="https://komarev.com/ghpvc/?username=nikfa35&label=Profile%20views&color=0e75b6&style=flat" />
