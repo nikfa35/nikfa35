@@ -1,5 +1,4 @@
-# profil
-README
+# profil/ README
 <h1 align="center">Hi 👋, I'm Ник</h1>
 <h3 align="center">Потерявшийся в себе</h3>
 
