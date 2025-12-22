@@ -1,25 +1,9 @@
 # nikfa35/ README
 <div style="margin-left:30px;">
 
-  <table cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
-    <tr>
-      <td style="padding-right:15px; vertical-align:middle;">
-        <img 
-          src="https://art.pixilart.com/063d8ab62cd8c31.png" 
-          width="80"
-        />
-      </td>
-      <td style="vertical-align:middle;">
-        <div style="font-size:32px; font-weight:bold;">
-          Hi 👋, I'm Nik
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <p style="font-size:18px; margin-top:10px;">
-    Lost in himself
-  </p>
+  <div style="font-size:32px; font-weight:bold;">
+    Hi 👋, I'm Nik
+  </div>
 
   <img 
     src="https://komarev.com/ghpvc/?username=nikfa35&label=Profile%20views&color=0e75b6&style=flat" 
