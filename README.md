@@ -20,17 +20,35 @@
     <li>⚡ Fun fact: I can be boring</li>
   </ul>
 
-  <h3>Languages and Tools:</h3>
-
+  <h3>Languages:</h3>
+  
 <p>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+<h3>Databases:</h3>
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+<h3>Operating system:</h3>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Windows_10x_Icon.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+<h3>Tools:</h3>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/PuTTY_Icon_upstream.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="40"/>
 </p>
+
 
 </div>
 
