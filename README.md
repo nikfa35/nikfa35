@@ -28,7 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/PuTTY_Logo.svg" width="40"/>
+  <!-- Исправленная строка для PuTTY -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/PuTTY_Icon_%28upstream%29.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="40"/>
 </p>
 
